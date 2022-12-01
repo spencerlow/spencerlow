@@ -4,7 +4,7 @@
 
 
 <br>
-<b><i>Studying Computer Science at Carleton University, Interested in all things computers </i></b>
+<b><i>Studying Computer Science at Carleton University, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspInterested in all things computers. </i></b>
 <br><br>
 
 - 👋 Hi, I’m **@spencerlow**
