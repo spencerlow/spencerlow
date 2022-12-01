@@ -1,8 +1,11 @@
-<h1 align="center">Hello there, I'm Spencer🐧</h1>
+<h1 align="left">Hello there, I'm Spencer 🐧</h1>
 
 <img align = "right" alt="about" width="300" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
 
-<br><br><br>
+
+<br>
+<b><i>Studying Computer Science at Carleton University, Interested in all things computers </i></b>
+<br><br>
 
 - 👋 Hi, I’m **@spencerlow**
 - 👀 I’m interested in **...**
