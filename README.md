@@ -1,4 +1,4 @@
-<h1 align="center">🐧</h1>
+<h1 align="center">Hello there, I'm Spencer🐧</h1>
 
 <img align = "right" alt="about" width="300" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
 
