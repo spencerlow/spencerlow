@@ -15,6 +15,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr)](https://github.com/spencerlow/cuhacking-2020)
 
+<h2 align="left">Who am I?</h1>
+
+...
+
 <!---
 spencerlow/spencerlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
