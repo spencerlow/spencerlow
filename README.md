@@ -13,6 +13,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **spencerlow1@outlook.com**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=dark)](https://github.com/spencerlow/cuhacking-2020)
+
 <!---
 spencerlow/spencerlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
