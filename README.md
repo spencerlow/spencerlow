@@ -8,20 +8,21 @@
 
 
 <br>
-<b><i>Studying Computer Science at Carleton University, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></b>
-<br><br>
-
-<h5>
+<b><i>Studying Computer Science at <a href=https://carleton.ca/>Carleton University</a>, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></b>
+<br>
+<h4>
 
 - 👋 Hi!
 - 🌱 I’m currently learning: 
+  <i>
   - Programming Paradigms
   - Operating Systems
   - Algorithm design/analysis
   - <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a> 
+  </i>
 - 📫 Reach me at: **spencerlow1@outlook.com**
 
-</h5>
+</h4>
   
 <br><br>
 
