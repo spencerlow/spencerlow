@@ -25,7 +25,7 @@
   
 <br><br>
 
-<h2 align="left">Interesting 'Things' I've done</h1>
+<h2 align="left">Some <i>interesting <sup>'things'</sup> </i> I've done</h1>
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr)](https://github.com/spencerlow/cuhacking-2020)
