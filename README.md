@@ -11,10 +11,17 @@
 <b><i>Studying Computer Science at Carleton University, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></b>
 <br><br>
 
+<h5>
+
 - 👋 Hi!
-- 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a>
+- 🌱 I’m currently learning: 
+  - Programming Paradigms
+  - Operating Systems
+  - Algorithm design/analysis
+  - <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a> 
 - 📫 Reach me at: **spencerlow1@outlook.com**
 
+</h5>
   
 <br><br>
 
