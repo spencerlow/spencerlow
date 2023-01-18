@@ -7,9 +7,9 @@
 <b><i>Studying Computer Science at Carleton University, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></b>
 <br><br>
 
-- 👋 Hi, I’m **@spencerlow**
+- 👋 Hi!
 - 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a>
-- 📫 How to reach me **spencerlow1@outlook.com**
+- 📫 Reach me at: **spencerlow1@outlook.com**
 
   
 <br><br>
