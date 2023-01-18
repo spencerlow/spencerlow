@@ -11,11 +11,29 @@
 - 🌱 I’m currently learning <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a>
 - 📫 How to reach me **spencerlow1@outlook.com**
 
+  
+<br><br>
+
+<h2 align="left">Interesting 'Things' I've done</h1>
+
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr)](https://github.com/spencerlow/cuhacking-2020)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=bookstore-comp3005final&theme=codeSTACKr)](https://github.com/spencerlow/bookstore-comp3005final)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmgomez&repo=COMP3004-Final&theme=codeSTACKr)](https://github.com/lucasmgomez/COMP3004-Final)
+--->
 
-<h2 align="left">Who am I?</h1>
+<a href="https://github.com/spencerlow/cuhacking-2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr" width="33%"/>
+</a>
+<a href="https://github.com/spencerlow/bookstore-comp3005final">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=bookstore-comp3005final&theme=codeSTACKr" width="33%"/>
+</a>
+<a href="https://github.com/lucasmgomez/COMP3004-Final">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmgomez&repo=COMP3004-Final&theme=codeSTACKr" width="33%"/>
+</a
 
-...
+
+
 
 <!---
 spencerlow/spencerlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
