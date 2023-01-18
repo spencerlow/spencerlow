@@ -1,6 +1,10 @@
 <h1 align="left">Hello there, I'm Spencer 🐧</h1>
 
+<!---
 <img align = "right" alt="about" width="300" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
+--->
+
+<img align = "right" alt="about" width="300" src="https://d30womf5coomej.cloudfront.net/sa/8d/ad844bab-be8f-43e4-97d6-3053f61c4a7e.png">
 
 
 <br>
