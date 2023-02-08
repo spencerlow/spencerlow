@@ -1,17 +1,14 @@
-<h1 align="left">Hello there, I'm Spencer 🐧</h1>
-
+<h1 align="left">Hello there, I'm Spencer </h1>
 <!---
 <img align = "right" alt="about" width="50" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif">
 --->
 
 <img align = "right" alt="about" width="50" src="https://d30womf5coomej.cloudfront.net/sa/8d/ad844bab-be8f-43e4-97d6-3053f61c4a7e.png">
 
-
 <br>
-<b><i>Studying Computer Science at <a href=https://carleton.ca/>Carleton University</a>, <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></b>
-<br>
+<b><i>Studying Computer Science at <a href=https://carleton.ca/>Carleton University</a>, </i></b>
 <h4>
-
+  
 - 👋 Hi!
 - 🌱 I’m currently learning: 
   <i>
@@ -23,10 +20,10 @@
 - 📫 Reach me at: **spencerlow1@outlook.com**
 
 </h4>
-  
-<br><br>
 
 <h2 align="left">Some <i>interesting <sup>'things'</sup> </i> I've done</h1>
+
+<br>
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr)](https://github.com/spencerlow/cuhacking-2020)
