@@ -9,8 +9,7 @@
 <b><i>Studying Computer Science at <a href=https://carleton.ca/>Carleton University</a>, </i></b>
 <h4>
   
-- 👋 Hi!
-- 🌱 I’m currently learning: 
+- 👋 Hi!🌱 I’m currently learning: 
   <i>
   - Programming Paradigms
   - Operating Systems
