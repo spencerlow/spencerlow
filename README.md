@@ -6,17 +6,22 @@
 <img align = "right" alt="about" width="50" src="https://d30womf5coomej.cloudfront.net/sa/8d/ad844bab-be8f-43e4-97d6-3053f61c4a7e.png">
 
 <br>
-<b><i>Studying Computer Science at <a href=https://carleton.ca/>Carleton University</a>, </i></b>
+<b><i>🌱Computer Science New Grad 🎉, </i></b> 👋 Welcome to my profile
 <h4>
-  
-- 👋 Hi!🌱 I’m currently learning: 
-  <i>
+
+<h2 align="left">What have I worked on?</i></h2>
+
   - Programming Paradigms
   - Operating Systems
   - Algorithm design/analysis
-  - <a href="https://godotengine.org/" target="_blank" rel="noreferrer">**GODOT**<img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="20" height="20"/> </a> 
-  </i>
+<i></i>
+
 - 📫 Reach me at: **spencerlow1@outlook.com**
+
+<p>
+  <a href="https://github.com/spencerlow" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=orange" /></a>
+  <a href="mailto:spencerlow1@outlook.com"><img alt="Email" src="https://img.shields.io/badge/spencerlow1@outlook.com-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=orange" /></a>
+</p>
 
 </h4>
 
@@ -24,24 +29,10 @@
 
 <br>
 
-<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr)](https://github.com/spencerlow/cuhacking-2020)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=bookstore-comp3005final&theme=codeSTACKr)](https://github.com/spencerlow/bookstore-comp3005final)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmgomez&repo=COMP3004-Final&theme=codeSTACKr)](https://github.com/lucasmgomez/COMP3004-Final)
---->
-
-<a href="https://github.com/spencerlow/cuhacking-2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=cuhacking-2020&theme=codeSTACKr" width="33%"/>
-</a>
-<a href="https://github.com/spencerlow/bookstore-comp3005final">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spencerlow&repo=bookstore-comp3005final&theme=codeSTACKr" width="33%"/>
-</a>
-<a href="https://github.com/lucasmgomez/COMP3004-Final">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmgomez&repo=COMP3004-Final&theme=codeSTACKr" width="33%"/>
-</a
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kxushik&repo=LotScan&theme=codeSTACKr)](https://github.com/Kxushik/LotScan)
 
 <!---
 spencerlow/spencerlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
