@@ -6,7 +6,8 @@
 <img align = "right" alt="about" width="50" src="https://d30womf5coomej.cloudfront.net/sa/8d/ad844bab-be8f-43e4-97d6-3053f61c4a7e.png">
 
 <br>
-<b><i>🌱Computer Science New Grad 🎉, </i></b> 👋 Welcome to my profile
+<b><i>🌱Computer Science New Grad 2024🎉 </i></b> - Welcome to my Profile 👋
+
 <h4>
 
 <h2 align="left">What have I worked on?</i></h2>
