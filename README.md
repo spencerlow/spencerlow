@@ -13,7 +13,9 @@
 
   - Programming Paradigms
   - Operating Systems
-  - Algorithm design/analysis
+  - Algorithm design/analysis + interrelationships within systems using graph and game theory
+  - Comp. Vision
+  - Robotics
 <i></i>
 
 - 📫 Reach me at: **spencerlow1@outlook.com**
