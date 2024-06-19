@@ -16,6 +16,8 @@
   - Algorithm design/analysis + interrelationships within systems using graph and game theory
   - Comp. Vision
   - Robotics
+  - Databases
+  - Reinforcement learning
 <i></i>
 
 - 📫 Reach me at: **spencerlow1@outlook.com**
